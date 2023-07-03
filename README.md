@@ -5,8 +5,8 @@ Module 4 Challenge - PyCitySchools
 ## Background
 
 This repository contains an analysis of city school district data. The project uses two datasets:
-(1) [schools_complete.csv](https://github.com/dspataru/pandas-challenge/blob/main/Resources/schools_complete.csv) : contains data pertaining to the schools including School ID, school_name, type, size, and budget.
-(2) [students_complete.csv](https://github.com/dspataru/pandas-challenge/blob/main/Resources/students_complete.csv) : contains data about students at each school and their Student ID, student_name gender, grade, school_name, reading_score, and math_score.
+1. [schools_complete.csv](https://github.com/dspataru/pandas-challenge/blob/main/Resources/schools_complete.csv) : contains data pertaining to the schools including School ID, school_name, type, size, and budget.
+2. [students_complete.csv](https://github.com/dspataru/pandas-challenge/blob/main/Resources/students_complete.csv) : contains data about students at each school and their Student ID, student_name gender, grade, school_name, reading_score, and math_score.
 
 The above two csv files can be found in the Resources folder of the current repository. Python's pandas library is used to import, merge, and sort the data into dataframes to analyze school and standardized test data to discover trends that might help to make strategic decisions regarding future school planning.
 
