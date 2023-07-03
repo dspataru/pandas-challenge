@@ -76,7 +76,7 @@ The spending_summary DataFrame breaks down school performance based on the avera
 
 ## Scores by School Size
 
-The size_summary DataFrame breaks down school performance based on the size of the school. The school size is split into three bins: small (<1000 students), medium (1000-2000), and large (2000-5000). The size_summary DataFrame includes the following metrics:
+The size_summary DataFrame breaks down school performance based on the size of the school. The school size is split into three bins: small (<1000 students), medium (1000-2000 students), and large (2000-5000 students). The size_summary DataFrame includes the following metrics:
 * Average math score
 * Average reading score
 * % passing math (the percentage of students who passed math)
