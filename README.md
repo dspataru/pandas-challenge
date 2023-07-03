@@ -1,6 +1,19 @@
-# pandas-challenge
-Module 4 Challenge - PyCitySchools
+# Module 4: pandas challenge - PyCitySchools
 
+## Table of Contents
+* [Background](https://github.com/dspataru/pandas-challenge/blob/main/README.md#background)
+* [Observable Trends](https://github.com/dspataru/pandas-challenge/blob/main/README.md#observable-trends)
+* [Import Dependencies and Setup](https://github.com/dspataru/pandas-challenge/blob/main/README.md#import-dependencies-and-setup)
+* [Load, Read and Merge the Data](https://github.com/dspataru/pandas-challenge/blob/main/README.md#load-read-and-merge-the-data)
+* [District Summary](https://github.com/dspataru/pandas-challenge/blob/main/README.md#district-summary)
+* [School Summary](https://github.com/dspataru/pandas-challenge/blob/main/README.md#school-summary)
+* [Top Performing Schools (By % Overall Passing)](https://github.com/dspataru/pandas-challenge/blob/main/README.md#top-performing-schools-by--overall-passing)
+* [Bottom Performing Schools (By % Overall Passing)](https://github.com/dspataru/pandas-challenge/blob/main/README.md#bottom-performing-schools-by--overall-passing)
+* [Math Scores by Grade](https://github.com/dspataru/pandas-challenge/blob/main/README.md#math-scores-by-grade)
+* [Reading Scores by Grade](https://github.com/dspataru/pandas-challenge/blob/main/README.md#reading-scores-by-grade)
+* [Scores by School Spending](https://github.com/dspataru/pandas-challenge/blob/main/README.md#scores-by-school-spending)
+* [Scores by School Size](https://github.com/dspataru/pandas-challenge/blob/main/README.md#scores-by-school-size)
+* [Scores by School Type](https://github.com/dspataru/pandas-challenge/blob/main/README.md#scores-by-school-type)
 
 ## Background
 
@@ -16,19 +29,6 @@ The IDE used for this challenge is Jupyter Notebook.
 Jupyter Notebook, Pandas, Python, DataFrames, DataSets.
 
 ## Observable Trends
-
-## Table of Contents
-* [Import Dependencies and Setup]()
-* [Load, Read and Merge the Data]()
-* [District Summary]()
-* [School Summary]()
-* [Top Performing Schools (By % Overall Passing)]()
-* [Bottom Performing Schools (By % Overall Passing)]()
-* [Math Scores by Grade]()
-* [Reading Scores by Grade]()
-* [Scores by School Spending]()
-* [Scores by School Size]()
-* [Scores by School Type]()
 
 ## Import Dependencies and Setup
 
