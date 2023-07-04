@@ -3,8 +3,7 @@
 ## Table of Contents
 * [Background](https://github.com/dspataru/pandas-challenge/blob/main/README.md#background)
 * [Observable Trends](https://github.com/dspataru/pandas-challenge/blob/main/README.md#observable-trends)
-* [Import Dependencies and Setup](https://github.com/dspataru/pandas-challenge/blob/main/README.md#import-dependencies-and-setup)
-* [Load, Read and Merge the Data](https://github.com/dspataru/pandas-challenge/blob/main/README.md#load-read-and-merge-the-data)
+* [Merged DataFrame](https://github.com/dspataru/pandas-challenge/blob/main/README.md#merged-dataframe)
 * [District Summary](https://github.com/dspataru/pandas-challenge/blob/main/README.md#district-summary)
 * [School Summary](https://github.com/dspataru/pandas-challenge/blob/main/README.md#school-summary)
 * [Top Performing Schools (By % Overall Passing)](https://github.com/dspataru/pandas-challenge/blob/main/README.md#top-performing-schools-by--overall-passing)
@@ -30,9 +29,7 @@ Jupyter Notebook, Pandas, Python, DataFrames, DataSets.
 
 ## Observable Trends
 
-## Import Dependencies and Setup
-
-## Load, Read and Merge the Data
+## Merged DataFrame
 
 ## District Summary
 
