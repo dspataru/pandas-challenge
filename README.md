@@ -31,6 +31,8 @@ Jupyter Notebook, Pandas, Python, DataFrames, DataSets.
 
 ## Merged DataFrame
 
+![first five rows from the combined dataframes](Images/combined_df_first_five.png)
+
 ## District Summary
 
 The district summary provides a high-level snapshot of the district's key metrics in a DataFrame that includes the following:
@@ -42,6 +44,8 @@ The district summary provides a high-level snapshot of the district's key metric
 * % passing math (the percentage of students who passed math)
 * % passing reading (the percentage of students who passed reading) 
 * % overall passing (the percentage of students who passed math AND reading)
+
+![the school district summary of metrics](Images/district_summary_table.png)
 
 ## School Summary
 
@@ -57,21 +61,31 @@ The school summary is a DataFrame that contains the following key metrics about 
 * % passing reading (the percentage of students who passed reading)
 * % overall passing (the percentage of students who passed math AND reading)
 
+![the school summary of metrics](Images/school_summary_table.png)
+
 ## Top Performing Schools (By % Overall Passing)
 
 The top_schools DataFrame sorts the schools by % overall passing in descending order and takes the top five schools.
+
+![the highest performing schools based on % overall passing](Images/highest_performing_schools_overall_passing.png)
 
 ## Bottom Performing Schools (By % Overall Passing)
 
 The bottom_schools DataFrame sorts the schools by % overall passing in ascending order and takes the first five schools (aka the lowest ranked schools).
 
+![the lowest performing schools based on % overall passing](Images/lowest_performing_schools_overall_passing.png)
+
 ## Math Scores by Grade
 
 This DataFrame contains the average math scores for students from grades nine to 12 at each school.
 
+![average math scores from each school organized by grade](Images/math_scores_by_grade.png)
+
 ## Reading Scores by Grade
 
 This DataFrame contains the average reading scores for students from grades nine to 12 at each school.
+
+![average reading scores from each school organized by grade](Images/reading_scores_by_grade.png)
 
 ## Scores by School Spending
 
@@ -82,6 +96,8 @@ The spending_summary DataFrame breaks down school performance based on the avera
 * % passing reading (the percentage of students who passed reading)
 * % overall passing (the percentage of students who passed math AND reading)
 
+![school performance metrics based on different spending bins](Images/scores_by_school_spending.png)
+
 ## Scores by School Size
 
 The size_summary DataFrame breaks down school performance based on the size of the school. The school size is split into three bins: small (<1000 students), medium (1000-2000 students), and large (2000-5000 students). The size_summary DataFrame includes the following metrics:
@@ -90,6 +106,8 @@ The size_summary DataFrame breaks down school performance based on the size of t
 * % passing math (the percentage of students who passed math)
 * % passing reading (the percentage of students who passed reading)
 * % overall passing (the percentage of students who passed math AND reading)
+
+![school performance metrics based on different school size bins](Images/scores_by_school_size.png)
 
 ## Scores by School Type
 
@@ -100,4 +118,5 @@ The type_summary DataFrame shows the school performance based on the school type
 * % passing reading (the percentage of students who passed reading)
 * % overall passing (the percentage of students who passed math AND reading)
 
+![school performance metrics based on different school type bins](Images/scores_by_school_type.png)
 
