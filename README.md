@@ -29,6 +29,15 @@ Jupyter Notebook, Pandas, Python, DataFrames, DataSets.
 
 ## Observable Trends
 
+* The high schools with the highest total number of students such as Bailey High, Hernandez High, Johnson High, and Rodriguez High have the lowest % overall passing scores, while the schools with the lowest student population including Holden High and Pena High have some of the highest % overall passing scores. The School Summary table shows this relationship.
+* Based on the top performing schools by % overall passing summary table, the top 5 schools are charter schools. In contrast, the bottom performing schools are all district schools.
+* The reading and math scores are fairly consistent across all grades when grouped by schools. Generally, students tend to score higher in reading class than math class.
+* Looking at the scores by school spending table, the less spending per student, the higher the overall passing grade.
+* Looking at the scores by school type table, the large schools have a significantly lower % overall passing than medium and small school sizes.
+* The scores by school type table shows that students that go to district schools have a lower % overall passing than students that go to charter schools.
+* Based on the analysis performed on the combined dataset, smaller schools have better student passing rates and this is likely because the teachers can provide more individualized attention to the students. Assuming that the number of classes per grade at each school is the same, this may show that smaller class sizes have a positive impact on a student's ability to learn and perform well. A more throughough analysis would need to be completed to determine whether or not per student spending is relted to a positive or negative correlation of passing % or if it is more to do with the size of the school itself.
+* District high schools take on more students which leads to more money per student but lower passing rates. It is also notable that the top performing schools have a smaller difference between the % of students passing math and the % of students passing reading, while the bottom performing schools have a larger difference between the % of students passing math and the % of students passing reading. 
+
 ## Merged DataFrame
 
 ![first five rows from the combined dataframes](Images/combined_df_first_five.png)
